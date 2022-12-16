@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Oreduna SMP'
+copyright = '2022, iFuckingGiveUp Inc'
+author = 'The Gods of Oreduna'
 
 release = '0.1'
 version = '0.1.0'
